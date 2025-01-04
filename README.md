@@ -4,9 +4,26 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 
 ## 🚀 What I'm Working On
 
-- Building a serverless Dining Concierge Chatbot using AWS services
-- Exploring large-scale data processing with PySpark and Hadoop
-- Teaching Machine Learning and Database Systems at NYU
+- Building InfraPilot: An AI-powered DevOps assistant that simplifies infrastructure management using RAG and Terraform
+- Understanding Flyte, a MLops workflow ochestration framework
+- Teaching Assistant for Machine Learning at NYU
+
+## 🎓 Featured Projects
+
+### Smart Photo Album
+- Built a serverless application enabling natural language search for photos using AWS Rekognition and Elasticsearch
+- Implemented automatic image labeling and custom label support with a React frontend
+- Leveraged AWS Lambda, S3, and API Gateway for a fully serverless architecture
+
+### Restaurant Chatbot
+- Developed a conversational AI system using Amazon Lex for natural language understanding
+- Implemented serverless backend with Lambda functions and DynamoDB for data persistence
+- Integrated Elasticsearch for efficient restaurant search and AWS SQS for request handling
+
+### Containerized Flask Application
+- Created a Flask-MongoDB application with complete Kubernetes orchestration
+- Implemented REST APIs, load balancing, and persistent storage
+- Managed secure credential handling in a containerized environment
 
 ## 💻 Tech Stack
 
