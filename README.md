@@ -8,22 +8,26 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 - Understanding Flyte, a MLops workflow ochestration framework
 - Teaching Assistant for Machine Learning at NYU
 
+## 🔭 Professional Impact
+
+- Spearheaded optimization of inventory systems at Ramco, reducing processing time from 5.75 hours to 45 minutes for 10M+ records
+- Engineered RBAC systems and optimized AWS S3 storage policies at Vara, improving data retrieval by 50%
+- Transformed complex SQL procedures through query optimization, achieving 3x improvement in system throughput
+
 ## 🎓 Featured Projects
 
 ### Smart Photo Album
-- Built a serverless application enabling natural language search for photos using AWS Rekognition and Elasticsearch
+- Built a serverless application using AWS Lambda, S3, and API Gateway enabling natural language search for photos using AWS Rekognition and Elasticsearch
 - Implemented automatic image labeling and custom label support with a React frontend
-- Leveraged AWS Lambda, S3, and API Gateway for a fully serverless architecture
 
 ### Restaurant Chatbot
-- Developed a conversational AI system using Amazon Lex for natural language understanding
+- Developed a conversational AI system using Amazon Lex for NLP
 - Implemented serverless backend with Lambda functions and DynamoDB for data persistence
 - Integrated Elasticsearch for efficient restaurant search and AWS SQS for request handling
 
 ### Containerized Flask Application
 - Created a Flask-MongoDB application with complete Kubernetes orchestration
 - Implemented REST APIs, load balancing, and persistent storage
-- Managed secure credential handling in a containerized environment
 
 ## 💻 Tech Stack
 
@@ -53,17 +57,11 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
 
-## 🏆 Achievements
 
-- PgUS Diversity Committee Merit Scholarship Recipient
-- Optimized inventory system processing time by 87% at Ramco Systems
-- Reduced data retrieval latency by 50% for 100K+ files at Vara
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 - Email: sk10945@nyu.edu
 - LinkedIn: [Connect with me](https://linkedin.com)
 
 ---
 
-⚡ Fun fact: I've worked on projects that process millions of records daily and love optimizing systems for peak performance!
