@@ -25,10 +25,6 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 - Implemented serverless backend with Lambda functions and DynamoDB for data persistence
 - Integrated Elasticsearch for efficient restaurant search and AWS SQS for request handling
 
-### Containerized Flask Application
-- Created a Flask-MongoDB application with complete Kubernetes orchestration
-- Implemented REST APIs, load balancing, and persistent storage
-
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
@@ -56,12 +52,6 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
-
-
-## Let's Connect!
-
-- Email: sk10945@nyu.edu
-- LinkedIn: [Connect with me](https://linkedin.com)
 
 ---
 
