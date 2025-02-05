@@ -4,8 +4,7 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 
 ## 🚀 What I'm Working On
 
-- Building InfraPilot: An AI-powered DevOps assistant that simplifies infrastructure management using RAG and Terraform
-- Understanding Flyte, a MLops workflow ochestration framework
+- Understanding Flyte, a MLops workflow ochestration framework and Feast, a Feature Store
 - Teaching Assistant for Machine Learning at NYU
 
 ## 🔭 Professional Impact
