@@ -2,18 +2,18 @@
 
 Software engineer specializing in scalable backend systems, cloud architecture, and data engineering. Currently pursuing my M.S. in Computer Science at NYU with a focus on Cloud Computing, Big Data, and Machine Learning.
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Understanding Flyte, a MLops workflow ochestration framework and Feast, a Feature Store
 - Teaching Assistant for Machine Learning at NYU
 
-## 🔭 Professional Impact
+## Professional Impact
 
 - Spearheaded optimization of inventory systems at Ramco, reducing processing time from 5.75 hours to 45 minutes for 10M+ records
 - Engineered RBAC systems and optimized AWS S3 storage policies at Vara, improving data retrieval by 50%
 - Transformed complex SQL procedures through query optimization, achieving 3x improvement in system throughput
 
-## 🎓 Featured Projects
+## Featured Projects
 
 ### Smart Photo Album
 - Built a serverless application using AWS Lambda, S3, and API Gateway enabling natural language search for photos using AWS Rekognition and Elasticsearch
@@ -24,7 +24,7 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 - Implemented serverless backend with Lambda functions and DynamoDB for data persistence
 - Integrated Elasticsearch for efficient restaurant search and AWS SQS for request handling
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
