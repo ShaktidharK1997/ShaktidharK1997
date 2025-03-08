@@ -1,4 +1,4 @@
-# Shaktidhar
+# Shaktidhar Kanamarla
 
 Software engineer specializing in scalable backend systems, cloud architecture, and data engineering. Currently pursuing M.S. in Computer Science at NYU with a focus on Cloud Computing, Big Data, and Machine Learning.
 
@@ -11,13 +11,14 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 ## Professional Experience
 
 - **Optimization of Inventory Systems** (Ramco)
-  - Reduced processing time from 5.75 hours to 45 minutes for 10M+ records using PySpark
+  - Reduced processing time from 5.75 hours to 45 minutes for 10M+ records using PySpark for Inventory ageing report. 
+  - Implemented a custom subcontractor inventory management module, integrating real-time consumption tracking
+for subcontract orders.
 
 - **Cloud Infrastructure Engineering** (Vara)
   - Engineered RBAC systems and optimized AWS S3 storage policies
   - Improved data retrieval efficiency by 50%
-  - Transformed complex SQL procedures through query optimization
-  - Achieved 3x improvement in system throughput
+  - Architected and launched a real-time dashboard using React JS, Tailwind CSS, and Flask backend
 
 ## Current Focus
 
