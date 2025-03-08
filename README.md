@@ -10,12 +10,12 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 
 ## Professional Experience
 
-- **Optimization of Inventory Systems** (Ramco)
+- **Ramco** (Optimization of Inventory Systems)
   - Reduced processing time from 5.75 hours to 45 minutes for 10M+ records using PySpark for Inventory ageing report. 
   - Implemented a custom subcontractor inventory management module, integrating real-time consumption tracking
 for subcontract orders.
 
-- **Cloud Infrastructure Engineering** (Vara)
+- **Vara** (Backend and Infrastructure)
   - Engineered RBAC systems and optimized AWS S3 storage policies
   - Improved data retrieval efficiency by 50%
   - Architected and launched a real-time dashboard using React JS, Tailwind CSS, and Flask backend
@@ -24,7 +24,6 @@ for subcontract orders.
 
 - Exploring Flyte, an MLOps workflow orchestration framework
 - Implementing Feast for feature store management
-- Advancing cloud-native application architecture
 
 ## Featured Projects
 
