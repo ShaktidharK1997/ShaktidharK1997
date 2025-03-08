@@ -1,30 +1,45 @@
-# Hi there 👋 I'm Shaktidhar
+# Shaktidhar
 
-Software engineer specializing in scalable backend systems, cloud architecture, and data engineering. Currently pursuing my M.S. in Computer Science at NYU with a focus on Cloud Computing, Big Data, and Machine Learning.
+Software engineer specializing in scalable backend systems, cloud architecture, and data engineering. Currently pursuing M.S. in Computer Science at NYU with a focus on Cloud Computing, Big Data, and Machine Learning.
 
-## What I'm Working On
+## Education
 
-- Understanding Flyte, a MLops workflow ochestration framework and Feast, a Feature Store
-- Teaching Assistant for Machine Learning at NYU
+- **M.S. in Computer Science** - New York University
+  - Focus: Cloud Computing, Big Data, Machine Learning
+  - Teaching Assistant for Machine Learning course
 
-## Professional Impact
+## Professional Experience
 
-- Spearheaded optimization of inventory systems at Ramco, reducing processing time from 5.75 hours to 45 minutes for 10M+ records
-- Engineered RBAC systems and optimized AWS S3 storage policies at Vara, improving data retrieval by 50%
-- Transformed complex SQL procedures through query optimization, achieving 3x improvement in system throughput
+- **Optimization of Inventory Systems** (Ramco)
+  - Reduced processing time from 5.75 hours to 45 minutes for 10M+ records using PySpark
+
+- **Cloud Infrastructure Engineering** (Vara)
+  - Engineered RBAC systems and optimized AWS S3 storage policies
+  - Improved data retrieval efficiency by 50%
+  - Transformed complex SQL procedures through query optimization
+  - Achieved 3x improvement in system throughput
+
+## Current Focus
+
+- Exploring Flyte, an MLOps workflow orchestration framework
+- Implementing Feast for feature store management
+- Advancing cloud-native application architecture
 
 ## Featured Projects
 
 ### Smart Photo Album
-- Built a serverless application using AWS Lambda, S3, and API Gateway enabling natural language search for photos using AWS Rekognition and Elasticsearch
-- Implemented automatic image labeling and custom label support with a React frontend
+- Serverless application built with AWS Lambda, S3, and API Gateway
+- Enables natural language search for photos using AWS Rekognition and Elasticsearch
+- Features automatic image labeling and custom label support
+- Implemented with React frontend for intuitive user experience
 
 ### Restaurant Chatbot
-- Developed a conversational AI system using Amazon Lex for NLP
-- Implemented serverless backend with Lambda functions and DynamoDB for data persistence
-- Integrated Elasticsearch for efficient restaurant search and AWS SQS for request handling
+- Conversational AI system leveraging Amazon Lex for NLP capabilities
+- Serverless backend architecture with Lambda functions and DynamoDB
+- Integrated Elasticsearch for efficient restaurant search functionality
+- Implemented AWS SQS for robust request handling and processing
 
-## Tech Stack
+## Technical Skills
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -51,6 +66,3 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
-
----
-
