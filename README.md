@@ -8,36 +8,10 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
   - Focus: Cloud Computing, Big Data, Machine Learning
   - Teaching Assistant for Machine Learning course
 
-## Professional Experience
-
-- **Ramco** (Optimization of Inventory Systems)
-  - Reduced processing time from 5.75 hours to 45 minutes for 10M+ records using PySpark for Inventory ageing report. 
-  - Implemented a custom subcontractor inventory management module, integrating real-time consumption tracking
-for subcontract orders.
-
-- **Vara** (Backend and Infrastructure)
-  - Engineered RBAC systems and optimized AWS S3 storage policies
-  - Improved data retrieval efficiency by 50%
-  - Architected and launched a real-time dashboard using React JS, Tailwind CSS, and Flask backend
-
 ## Current Focus
 
 - Exploring Flyte, an MLOps workflow orchestration framework
 - Implementing Feast for feature store management
-
-## Featured Projects
-
-### Smart Photo Album
-- Serverless application built with AWS Lambda, S3, and API Gateway
-- Enables natural language search for photos using AWS Rekognition and Elasticsearch
-- Features automatic image labeling and custom label support
-- Implemented with React frontend for intuitive user experience
-
-### Restaurant Chatbot
-- Conversational AI system leveraging Amazon Lex for NLP capabilities
-- Serverless backend architecture with Lambda functions and DynamoDB
-- Integrated Elasticsearch for efficient restaurant search functionality
-- Implemented AWS SQS for robust request handling and processing
 
 ## Technical Skills
 
