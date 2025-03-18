@@ -7,6 +7,7 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 - **M.S. in Computer Science** - New York University
   - Interested in Machine Learning, Databases and Cloud-native solutions
   - Teaching Assistant for Machine Learning course
+- **Bachelor of Engineering** - PSG College of Technology, Anna University
 
 ## Current Focus
 
