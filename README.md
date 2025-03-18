@@ -5,7 +5,7 @@ Software engineer specializing in scalable backend systems, cloud architecture, 
 ## Education
 
 - **M.S. in Computer Science** - New York University
-  - Focus: Cloud Computing, Big Data, Machine Learning
+  - Interested in Machine Learning, Databases and Cloud-native solutions
   - Teaching Assistant for Machine Learning course
 
 ## Current Focus
