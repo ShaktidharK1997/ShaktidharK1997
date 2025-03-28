@@ -1,12 +1,10 @@
 # Shaktidhar Kanamarla
 
-Software engineer specializing in scalable backend systems, cloud architecture, and data engineering. Currently pursuing M.S. in Computer Science at NYU with a focus on Cloud Computing, Big Data, and Machine Learning.
+Software engineer interested in Machine Learning Systems
 
 ## Education
 
 - **M.S. in Computer Science** - New York University
-  - Interested in Machine Learning, Databases and Cloud-native solutions
-  - Teaching Assistant for Machine Learning course
 - **Bachelor of Engineering** - PSG College of Technology, Anna University
 
 ## Current Focus
