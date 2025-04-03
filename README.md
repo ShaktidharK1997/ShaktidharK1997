@@ -1,6 +1,6 @@
 # Shaktidhar Kanamarla
 
-Software engineer interested in Machine Learning Systems
+Software engineer interested in Machine Learning Systems and Databases. 
 
 ## Education
 
@@ -11,6 +11,7 @@ Software engineer interested in Machine Learning Systems
 
 - Exploring Flyte, an MLOps workflow orchestration framework
 - Implementing Feast for feature store management
+- MCP Server Framework by Claude
 
 ## Technical Skills
 
