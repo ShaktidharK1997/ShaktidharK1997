@@ -5,7 +5,7 @@ Software engineer interested in Machine Learning Systems and Databases.
 ## Education
 
 - **M.S. in Computer Science** - New York University
-- **Bachelor of Engineering** - PSG College of Technology, Anna University
+- **B.E in Computer Science** - PSG College of Technology, Anna University
 
 ## Current Focus
 
