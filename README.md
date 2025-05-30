@@ -1,6 +1,6 @@
 MS CS NYU Candidate. Passionate about Machine Learning systems and Databases. 
 
-Currently spending my time learning MCP Framework, Feast and Recommendation Models in that order!
+Currently spending my time learning MCP Framework, Feast and Recommendation Models!
 
 
 
