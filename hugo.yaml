@@ -1,5 +1,5 @@
 baseURL: "https://ShaktidharK1997.github.io/ShaktidharK1997/"
-title: "Shaktidhar's Blog"
+title: "Shaktidhar K"
 pagination:
   pagerSize: 10
 theme: PaperMod
@@ -16,23 +16,23 @@ minify:
 
 params:
   env: production
-  title: "Shaktidhar's Blog"
+  title: "Shaktidhar K"
   description: "Notes on AI, data science, and building agents"
   keywords: [Blog, AI, Data Science, Agents, Machine Learning]
   author: "Shaktidhar K"
-  DateFormat: "January 2, 2006"
+  DateFormat: "Jan 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
   hidemeta: false
@@ -40,12 +40,15 @@ params:
   showtoc: true
   tocopen: false
 
+  mainSections:
+    - posts
+
   assets:
     disableHLJS: true
     disableFingerprinting: false
 
   label:
-    text: "Shaktidhar's Blog"
+    text: "Shaktidhar K"
     icon:
     iconHeight: 35
 
@@ -53,8 +56,8 @@ params:
     enabled: true
     title: "Shaktidhar K"
     subtitle: |
-      MS CS NYU Graduate. Data Scientist at Louis Vuitton.
-      Currently spending my time making agents to simplify my life.
+      MS CS graduate from NYU, currently a Data Scientist at Louis Vuitton.
+      I build agents to simplify my life and write about what I learn along the way.
     imageUrl: ""
     imageWidth: 120
     imageHeight: 120
@@ -64,8 +67,8 @@ params:
         url: posts
       - name: Archives
         url: archives
-      - name: Search
-        url: search
+      - name: About
+        url: about
 
   socialIcons:
     - name: github
@@ -95,13 +98,13 @@ menu:
       name: Archives
       url: /archives/
       weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 30
     - identifier: about
       name: About
       url: /about/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 40
 
 outputs:

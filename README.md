@@ -1,10 +1,10 @@
-# Hi, I'm Shaktidhar
+# Shaktidhar K
 
-MS CS NYU Graduate. Data Scientist at Louis Vuitton.
+MS CS graduate from NYU. Data Scientist at Louis Vuitton.
 
-Currently spending my time making agents to simplify my life.
+I build agents to simplify my life and write about what I learn along the way.
 
-### What I'm Into
+### Interests
 
 - AI Agents & Autonomous Systems
 - Machine Learning & Data Science
@@ -13,4 +13,6 @@ Currently spending my time making agents to simplify my life.
 
 ### Blog
 
-I write about AI, data science, and building agents on my [blog](https://ShaktidharK1997.github.io/).
+I write about AI, data science, and building agents at [shaktidhark1997.github.io](https://ShaktidharK1997.github.io/ShaktidharK1997/).
+
+Built with [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod), with custom styling.
