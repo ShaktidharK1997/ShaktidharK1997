@@ -1,0 +1,118 @@
+baseURL: "https://ShaktidharK1997.github.io/"
+title: "Shaktidhar's Blog"
+pagination:
+  pagerSize: 10
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "Shaktidhar's Blog"
+  description: "Notes on AI, data science, and building agents"
+  keywords: [Blog, AI, Data Science, Agents, Machine Learning]
+  author: "Shaktidhar K"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  assets:
+    disableHLJS: true
+    disableFingerprinting: false
+
+  label:
+    text: "Shaktidhar's Blog"
+    icon:
+    iconHeight: 35
+
+  profileMode:
+    enabled: true
+    title: "Shaktidhar K"
+    subtitle: |
+      MS CS NYU Graduate. Data Scientist at Louis Vuitton.
+      Currently spending my time making agents to simplify my life.
+    imageUrl: ""
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: ""
+    buttons:
+      - name: Blog
+        url: posts
+      - name: Archives
+        url: archives
+      - name: Search
+        url: search
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/ShaktidharK1997"
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
