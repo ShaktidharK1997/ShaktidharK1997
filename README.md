@@ -1,29 +1,16 @@
-# Shaktidhar's Blog
-
-Personal blog built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme, deployed on GitHub Pages.
+# Hi, I'm Shaktidhar
 
 MS CS NYU Graduate. Data Scientist at Louis Vuitton.
 
 Currently spending my time making agents to simplify my life.
 
-## Local Development
+### What I'm Into
 
-```bash
-# Clone with submodules
-git clone --recurse-submodules https://github.com/ShaktidharK1997/ShaktidharK1997.git
+- AI Agents & Autonomous Systems
+- Machine Learning & Data Science
+- Large Language Models
+- Applied AI in Industry
 
-# Run local server
-hugo server -D
-```
+### Blog
 
-## Creating New Posts
-
-```bash
-hugo new content posts/my-new-post.md
-```
-
-Then edit the file in `content/posts/` and set `draft: false` when ready to publish.
-
-## Deployment
-
-The site is automatically built and deployed to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch.
+I write about AI, data science, and building agents on my [blog](https://ShaktidharK1997.github.io/).
