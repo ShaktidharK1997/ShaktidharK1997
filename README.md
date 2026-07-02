@@ -1,6 +1,6 @@
 # Shaktidhar K
 
-MS CS graduate from NYU. Data Scientist at Louis Vuitton.
+MS CS graduate from NYU. 
 
 ### Interests
 
